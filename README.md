@@ -1,2 +1,2 @@
 ## Talks_Reviews
-Summary takeaway of the talks I've been attending, mostly after hours and via [Meetup](https://www.meetup.com/).
+Summary takeaway of a talk or an article I've come across.
